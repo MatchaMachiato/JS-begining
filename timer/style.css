@@ -1,0 +1,33 @@
+#time {
+    display: block;
+    font-size: 80px; 
+    text-align: center;
+    font-family: 'google-font';
+    background-color: rgb(34, 153, 40);
+    color: gainsboro;
+    border: 10px solid black;
+}
+
+#myDiv {
+    text-align: center;
+}
+
+#inputSec {
+    width: 80px;
+}
+
+#startBtn {
+    width: 100px;
+    background-color: brown;
+}
+
+#resetBtn {
+    width: 100px;
+    background-color: rgb(42, 165, 83);
+}
+
+
+@font-face{
+ font-family:'google-font';
+ src: url('Orbitron-VariableFont_wght.ttf');
+}
